@@ -1,4 +1,3 @@
-# SQL
 # 🎉 Another Milestone Unlocked: Completed SQL Course from Codebasics! 🚀
 
 I recently completed the **SQL course by Codebasics**, and I must say, it’s a great course for anyone in the **Data Analyst field**! 
